@@ -34,11 +34,12 @@ function draw() {
   rectMode(CENTER);
   background(230);
 
-  paper1.display();
+ 
  
   
   groundObject.display();
   dustbinObj.display();
+  paper1.display();
 
 }
 
